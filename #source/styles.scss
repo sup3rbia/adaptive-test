@@ -1,0 +1,13 @@
+// Файл обнуления
+@import "_nullstyles";
+body {
+   max-width: 1440px;
+   position: relative;
+   margin: 0px auto;
+}
+
+.wrapper {
+   background-color: #FEDBCA;
+}
+@import "_computer-beta";
+@import "_mobile-styles";
